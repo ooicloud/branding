@@ -1,2 +1,3 @@
-# OOI Cloud Branding
-Logos, fonts, and other artwork for the OOICloud project. The OOICloud project artwork was designed by [Michelle Weirathmueller](https://michw.com).
+# OOICloud Branding
+
+This repository contains branding resources and guidelines to use when creating software and services within the OOICloud project. OOICloud project artwork was designed and created by [Michelle Weirathmueller](https://michw.com).
